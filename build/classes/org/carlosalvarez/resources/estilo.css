@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 abr 2021, 16:13:48
+    Author     : Carlos Adolfo Alvarez Crúz
+*/
+#lblPantalla {
+    
+    -fx-background-color: #4D4D4D;
+    
+}
+
+#btnIgual{
+    -fx-background-color: #009999;
+}
+
+
+
+.btnNumeros{
+    -fx-font-size:14px; 
+}
+
+.btnNumeros{
+    -fx-background-color: #ff9900;
+}
+
+.btnOperadores{
+    -fx-background-color: #009999;
+}
+
+
+#btnAC{
+    -fx-text-fill: #000000;
+}
+
+#AnchorPane{
+    -fx-background-color: #00cc33;
+}

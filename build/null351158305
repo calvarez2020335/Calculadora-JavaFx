@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 11.0.10+9 (AdoptOpenJDK)
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: org.carlosalvarez.system.Principal
+
